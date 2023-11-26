@@ -21,11 +21,11 @@ Swiper: Utilized to create a testimonial swiper, enabling smooth and interactive
 Setup Instructions
 To set up and run this project locally, follow these steps:
 
-Clone the Repository:
+Clone the Repository: https://github.com/shan3274/InfinityCore_Technologies_assignment.git
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone 
 Navigate to the Project Directory:
 
 bash
